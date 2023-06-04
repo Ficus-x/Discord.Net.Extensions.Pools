@@ -12,6 +12,7 @@
         <FileVersion>1.0.0</FileVersion>
         <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
         <Version>1.0.0</Version>
+        <Authors>Ficus-x</Authors>
     </PropertyGroup>
 
     <ItemGroup>
