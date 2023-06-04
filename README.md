@@ -14,7 +14,7 @@ An Discord.Net extension which provides pool system for a lot of builders.
 - [Nuget](https://www.nuget.org/packages/Discord.Net.Extensions.Pools)
 
 ## Examples
-Let's take a `EmbedBuilder`. Now you don't need to make an new instance of `EmbedBuidler`. Use EmbedBuilderPool.
+Let's take a `EmbedBuilder`. Now you don't need to make an new instance of `EmbedBuidler`. Use `EmbedBuilderPool`.
 
 ```cs
 EmbedBuilder embedBuilder = EmbedBuilderPool.Pool.Get()
